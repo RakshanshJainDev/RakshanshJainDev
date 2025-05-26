@@ -9,8 +9,8 @@
 
   <h2>👨‍💻 About Me</h2>
   <pre><code>const Rakshansh = {
-    code: ["HTML", "CSS", "JavaScript", "Python", "C"],
-    tools: ["React", "Tailwind", "Git", "Figma", "VS Code"],
+    code: ["HTML", "CSS", "JavaScript", "Python"],
+    tools: ["Bootstrap Studio", "VS Code"],
     learning: "Building full-stack web apps & UI/UX design",
     vibe: "Minimal. Fast. Focused.",
     motto: "Write clean code. Make it work. Make it beautiful."
